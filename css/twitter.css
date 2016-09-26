@@ -1,0 +1,19 @@
+body{
+	padding-top: 60px;
+}
+
+..rt-like {
+	border-bottom: 1px solid lightgrey;
+}
+
+.twitter-reply hr {
+	margin-top: 5px;
+margin-bottom: 5px;
+/* The color of `hr` is set by its top border color.
+Yeah, it's weird. */
+border-top: 1px solid lightgray;
+}
+
+.navbar-brand{
+	font-family: Arial
+}
