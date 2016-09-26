@@ -111,6 +111,8 @@ body {
 	border: 1px solid lightgrey;
 	background-color: white;
 	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 /* Make the birthday icon look more Facebookey.
